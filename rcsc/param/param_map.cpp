@@ -36,6 +36,7 @@
 #include "param_map.h"
 
 #include <functional>
+#include <algorithm>
 
 namespace rcsc {
 
